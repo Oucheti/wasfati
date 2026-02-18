@@ -1,10 +1,13 @@
-import { useParams } from "react-router-dom";
+import { useParams, Navigate } from "react-router-dom";
 import header from "../assets/header.png";
 import recipes from "../data/data.json";
 export default function RecipeDetails() {
   const { id } = useParams();
 
   const recipe = recipes.content.find((rec) => rec.id === Number(id));
+  if(!recipe){
+    return<Navigate to="not-found" replace/>
+  }
     return (
 <div className="w-full min-h-screen flex flex-col">
   <header className="relative w-full h-24 md:h-32 overflow-hidden bg-gray-900">
