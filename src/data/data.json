@@ -1,0 +1,722 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "titre": "Couscous royal",
+            "description": "Le couscous est une veritable invitation au voyage qui fait honneur a la tradition et aux saveurs du Maghreb. Ce plat emblematique melange des ingredients simples et savoureux pour creer une belle ribambelle de gouts et de textures. Parfait pour un repas convivial en famille.",
+            "tempsMinute": 120,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2025/03/couscous-royal-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Oignons", "quantite": "200 g"},
+                {"nom": "Persil frais", "quantite": "8 brins"},
+                {"nom": "Coriandre fraiche", "quantite": "6 brins"},
+                {"nom": "Huile d'olive", "quantite": "40 g"},
+                {"nom": "Viande d'agneau", "quantite": "700 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "1 pincee"},
+                {"nom": "Semoule de couscous moyenne", "quantite": "350 g"},
+                {"nom": "Eau", "quantite": "850 g"},
+                {"nom": "Carottes", "quantite": "120 g"},
+                {"nom": "Courgettes", "quantite": "170 g"},
+                {"nom": "Navets", "quantite": "120 g"},
+                {"nom": "Ras el hanout", "quantite": "1 cuillere a soupe"},
+                {"nom": "Raisins secs", "quantite": "100 g"},
+                {"nom": "Pois chiches en conserve", "quantite": "250 g"},
+                {"nom": "Merguez", "quantite": "8"}
+            ],
+            "categorie": "Couscous"
+        },
+        {
+            "id": 2,
+            "titre": "Msemen - Crepes feuilletees marocaines",
+            "description": "Le msemen est tres connu au Maghreb, il s'agit d'une crepe feuilletee dont le pliage se fait a la main. Cette recette a ete peaufinee pour obtenir une belle pate souple. Au gouter ou au petit dejeuner, l'odeur embaume toute la maison. Le msemen est accompagne de miel et de the a la menthe.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2021/04/msemen-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Eau", "quantite": "470 g"},
+                {"nom": "Levure de boulanger deshydratee", "quantite": "1 pincee"},
+                {"nom": "Semoule extra fine", "quantite": "500 g"},
+                {"nom": "Farine", "quantite": "250 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Miel", "quantite": "1 cuillere a soupe"},
+                {"nom": "Huile de tournesol", "quantite": "100 g"},
+                {"nom": "Beurre", "quantite": "50 g"},
+                {"nom": "Semoule fine", "quantite": "2 cuilleres a soupe"}
+            ],
+            "categorie": "Petit-dejeuner"
+        },
+        {
+            "id": 3,
+            "titre": "Harira - Soupe marocaine traditionnelle",
+            "description": "Une bonne soupe marocaine nourrissante et savoureuse. Pendant le Ramadan, la harira est servie quotidiennement et offerte traditionnellement aux pauvres. On conseille d'ajouter le jus de citron au moment de servir plutot que de le melanger a toute la preparation.",
+            "tempsMinute": 90,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2016/06/harira-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Lentilles", "quantite": "100 g"},
+                {"nom": "Pois chiches", "quantite": "400 g"},
+                {"nom": "Persil frais", "quantite": "8 brins"},
+                {"nom": "Coriandre fraiche", "quantite": "8 brins"},
+                {"nom": "Farine", "quantite": "20 g"},
+                {"nom": "Tomates pelees en jus", "quantite": "400 g"},
+                {"nom": "Concentre de tomates", "quantite": "3 cuilleres a soupe"},
+                {"nom": "Oignons", "quantite": "2"},
+                {"nom": "Gousse d'ail", "quantite": "1"},
+                {"nom": "Celeri branche", "quantite": "2 branches"},
+                {"nom": "Viande d'agneau", "quantite": "300 g"},
+                {"nom": "Ras el hanout", "quantite": "1 cuillere a soupe"},
+                {"nom": "Gingembre moulu", "quantite": "0.75 cuillere a cafe"},
+                {"nom": "Curcuma", "quantite": "0.75 cuillere a cafe"},
+                {"nom": "Cannelle", "quantite": "0.25 cuillere a cafe"},
+                {"nom": "Sel", "quantite": "2 cuilleres a cafe"},
+                {"nom": "Eau", "quantite": "800 g"}
+            ],
+            "categorie": "Soupes"
+        },
+        {
+            "id": 4,
+            "titre": "Tajine de poulet aux olives",
+            "description": "Le Tajine designe une preparation culinaire d'Afrique du Nord-Ouest, que l'on cuit a l'etouffee dans l'ustensile du meme nom. Cette recette de tajine de poulet aux olives est un grand classique de la cuisine Marocaine, classe parmi les tajines classiques.",
+            "tempsMinute": 75,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2017/01/tajine-de-poulet-aux-olives-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Gousses d'ail", "quantite": "4"},
+                {"nom": "Huile d'olive", "quantite": "20 g"},
+                {"nom": "Oignons", "quantite": "500 g"},
+                {"nom": "Pilons de poulet", "quantite": "750 g"},
+                {"nom": "Sel", "quantite": "1 pincee"},
+                {"nom": "Poivre", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Curcuma", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Gingembre moulu", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Jus de citron", "quantite": "1 cuillere a soupe"},
+                {"nom": "Eau", "quantite": "300 g"},
+                {"nom": "Olives vertes", "quantite": "100 g"},
+                {"nom": "Citron confit", "quantite": "0.25"},
+                {"nom": "Persil frais", "quantite": "20 feuilles"},
+                {"nom": "Coriandre fraiche", "quantite": "20 feuilles"}
+            ],
+            "categorie": "Tajines"
+        },
+        {
+            "id": 5,
+            "titre": "Baghrir - Crepes mille trous",
+            "description": "Les baghrirs sont des crepes marocaines qui ont la particularite d'etre preparees a base de semoule extra fine avec une multitude de petits trous. Elles sont legeres, aerees, et traditionnellement servies avec du miel et du beurre fondu.",
+            "tempsMinute": 30,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2016/06/baghrir-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Semoule extra fine", "quantite": "500 g"},
+                {"nom": "Farine", "quantite": "60 g"},
+                {"nom": "Eau", "quantite": "850 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Levure de boulanger deshydratee", "quantite": "2 sachets"},
+                {"nom": "Levure chimique", "quantite": "2 sachets"},
+                {"nom": "Sucre en poudre", "quantite": "2 cuilleres a soupe"}
+            ],
+            "categorie": "Petit-dejeuner"
+        },
+        {
+            "id": 6,
+            "titre": "Cornes de gazelle",
+            "description": "Petites patisseries maghrebines en forme de croissants, composees principalement de pate d'amande et d'eau de fleur d'oranger. La version marocaine presente une garniture a base de pate d'amande enrobee de fine pate sablee parfumee a l'eau de fleur d'oranger. Servies en accompagnement du the a la menthe.",
+            "tempsMinute": 90,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2017/04/cornes-de-gazelles-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Beurre", "quantite": "80 g"},
+                {"nom": "Farine", "quantite": "200 g"},
+                {"nom": "Sel", "quantite": "1 pincee"},
+                {"nom": "Eau de fleur d'oranger", "quantite": "60 g"},
+                {"nom": "Amandes mondees", "quantite": "250 g"},
+                {"nom": "Sucre glace", "quantite": "60 g"},
+                {"nom": "Cannelle en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Miel liquide", "quantite": "1 cuillere a soupe"},
+                {"nom": "Noix de muscade moulue", "quantite": "1 pincee"},
+                {"nom": "Blanc d'oeuf", "quantite": "1"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 7,
+            "titre": "Briouates aux amandes",
+            "description": "Appelees aussi triangles aux amandes, ces patisseries originaires d'Afrique du Nord sont generalement confectionnees pour de grandes occasions, notamment au moment du Ramadan ou des fetes de l'Aid. Parfaits pour accompagner un the a la menthe, ces patisseries sont un vrai delice.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2017/09/briouates-aux-amandes-thermomix-800x598.jpg",
+            "ingredients": [
+                {"nom": "Amandes", "quantite": "200 g"},
+                {"nom": "Sucre en poudre", "quantite": "100 g"},
+                {"nom": "Beurre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cannelle en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Eau de fleur d'oranger", "quantite": "4 cuilleres a soupe"},
+                {"nom": "Feuilles de brick", "quantite": "8"},
+                {"nom": "Miel liquide", "quantite": "200 g"},
+                {"nom": "Graine de sesame blanc", "quantite": "1 cuillere a soupe"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 8,
+            "titre": "Amlou - Pate a tartiner marocaine",
+            "description": "Une recette d'Amlou qui nous vient tout droit du Maroc, plus precisement de la region du Souss. Cette pate a tartiner est presente sur toutes les tables marocaines au petit dejeuner. Elle se deguste sur du pain, des crepes, avec des fruits, dans des desserts ou melangee a du yaourt.",
+            "tempsMinute": 25,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2024/09/amlou-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Amandes", "quantite": "200 g"},
+                {"nom": "Huile de noisettes", "quantite": "100 g"},
+                {"nom": "Miel d'oranger", "quantite": "80 g"}
+            ],
+            "categorie": "Petit-dejeuner"
+        },
+        {
+            "id": 9,
+            "titre": "Khobz - Pain marocain",
+            "description": "Rien de mieux qu'un bon petit pain maison et chaud. Le khobz s'accommode de tous les plats traditionnels: tajines, plats en sauce. Ce pain rond et dense a une croute doree et une mie compacte parfaite pour saucer les plats.",
+            "tempsMinute": 90,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2024/10/khobz-pain-maroc-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Farine", "quantite": "300 g"},
+                {"nom": "Semoule extra fine", "quantite": "300 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Sucre en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Levure de boulanger fraiche", "quantite": "25 g"},
+                {"nom": "Huile d'olive", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Lait en poudre demi-ecreme", "quantite": "20 g"},
+                {"nom": "Eau", "quantite": "400 g"}
+            ],
+            "categorie": "Pains"
+        },
+        {
+            "id": 10,
+            "titre": "Krachel - Brioche marocaine",
+            "description": "La brioche Marocaine tient son origine de la ville imperiale de Fes au Maroc. Traditionnellement parfumees et aromatisees aux graines d'anis, de sesame et de fleur d'oranger, elles se degustent au petit dejeuner ou au gouter, accompagnees de miel, de beurre ou de confiture.",
+            "tempsMinute": 120,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2023/04/IMG20230406142228-800x600.jpg",
+            "ingredients": [
+                {"nom": "Levure de boulanger fraiche", "quantite": "15 g"},
+                {"nom": "Farine", "quantite": "500 g"},
+                {"nom": "Sucre en poudre", "quantite": "70 g"},
+                {"nom": "Oeufs", "quantite": "2"},
+                {"nom": "Graines de sesame blanc", "quantite": "6 cuilleres a soupe"},
+                {"nom": "Anis vert en grain", "quantite": "1 cuillere a soupe"},
+                {"nom": "Eau de fleur d'oranger", "quantite": "3 cuilleres a soupe"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Lait entier", "quantite": "200 g"},
+                {"nom": "Beurre", "quantite": "60 g"}
+            ],
+            "categorie": "Petit-dejeuner"
+        },
+        {
+            "id": 11,
+            "titre": "Poulet roti a la marocaine",
+            "description": "Le poulet roti est un des plus importants et delicieux plats de la gastronomie marocaine. On le prepare pour les mariages, les receptions, les fetes mais aussi quand on a simplement envie. La marinade aux epices et herbes fraiches rend la viande moelleuse et savoureuse.",
+            "tempsMinute": 120,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2016/08/poulet-roti-marocaine-800x600.jpg",
+            "ingredients": [
+                {"nom": "Persil frais", "quantite": "10 brins"},
+                {"nom": "Coriandre fraiche", "quantite": "10 brins"},
+                {"nom": "Gousses d'ail", "quantite": "4"},
+                {"nom": "Sel", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Curcuma", "quantite": "1 cuillere a cafe"},
+                {"nom": "Beurre", "quantite": "1 cuillere a soupe"},
+                {"nom": "Cuisses de poulet", "quantite": "1000 g"},
+                {"nom": "Eau", "quantite": "600 g"},
+                {"nom": "Pommes de terre", "quantite": "600 g"},
+                {"nom": "Huile d'olive", "quantite": "15 g"},
+                {"nom": "Piment de Cayenne", "quantite": "1 pincee"},
+                {"nom": "Tomates cerises", "quantite": "6"}
+            ],
+            "categorie": "Plats traditionnels"
+        },
+        {
+            "id": 12,
+            "titre": "Taktouka - Salade de poivrons marocaine",
+            "description": "La taktouka est une salade cuite marocaine que l'on peut deguster froide ou chaude. Elle est composee le plus souvent de poivrons, de tomate et de paprika. Elle est generalement servie avec des plats marocains traditionnels tels que les tajines. Tout le soleil de la Mediterranee dans une assiette.",
+            "tempsMinute": 45,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2021/04/taktouka-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Gousses d'ail", "quantite": "3"},
+                {"nom": "Persil frais", "quantite": "5 brins"},
+                {"nom": "Coriandre fraiche", "quantite": "5 brins"},
+                {"nom": "Tomates", "quantite": "4"},
+                {"nom": "Poivrons verts", "quantite": "3"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Concentre de tomates", "quantite": "1 cuillere a soupe"},
+                {"nom": "Huile d'olive", "quantite": "45 g"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "1 cuillere a cafe"}
+            ],
+            "categorie": "Salades"
+        },
+        {
+            "id": 13,
+            "titre": "Soupe de lentilles - 3dess",
+            "description": "Voici une soupe de lentilles appelee 3dess tres populaire en Algerie et au Maroc. Preparees surtout l'hiver, les lentilles sont tres appreciees non seulement pour leur gout mais surtout pour leurs valeurs nutritives. Une soupe reconfortante et nourrissante.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2018/01/soupe-de-lentilles-3dess-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Oignon blanc", "quantite": "1"},
+                {"nom": "Gousses d'ail", "quantite": "2"},
+                {"nom": "Viande d'agneau (facultatif)", "quantite": "250 g"},
+                {"nom": "Huile d'olive", "quantite": "15 g"},
+                {"nom": "Concentre de tomates", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Carotte", "quantite": "1"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "1 cuillere a cafe"},
+                {"nom": "Gingembre moulu", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Coriandre fraiche", "quantite": "30 feuilles"},
+                {"nom": "Lentilles", "quantite": "250 g"},
+                {"nom": "Eau", "quantite": "800 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "2 pincees"}
+            ],
+            "categorie": "Soupes"
+        },
+        {
+            "id": 14,
+            "titre": "Cake marocain aux agrumes",
+            "description": "Ce cake marocain ne contient pas de farine, mais de la chapelure et de la poudre d'amande. Il est parfume a la cannelle et imbibe d'un sirop aux agrumes. Tres gourmand, il reste moelleux plusieurs jours.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2018/06/cake-marocain-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Amandes en poudre", "quantite": "100 g"},
+                {"nom": "Chapelure", "quantite": "50 g"},
+                {"nom": "Sucre en poudre", "quantite": "150 g"},
+                {"nom": "Levure chimique", "quantite": "4 g"},
+                {"nom": "Cannelle en poudre", "quantite": "3 g"},
+                {"nom": "Zeste d'orange", "quantite": "1"},
+                {"nom": "Zeste de citron", "quantite": "1"},
+                {"nom": "Oeufs", "quantite": "4"},
+                {"nom": "Huile de tournesol", "quantite": "140 g"},
+                {"nom": "Jus d'orange", "quantite": "90 g"},
+                {"nom": "Jus de citron", "quantite": "60 g"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 15,
+            "titre": "Tajine de haricots blancs",
+            "description": "Lorsque l'hiver est bien installe et que les temperatures sont au plus bas, il n'y a rien de tel qu'un bon petit ragout bien chaud et reconfortant! Ce tajine de haricots lingots blancs a la viande est dans la plus grande tradition marocaine.",
+            "tempsMinute": 90,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2023/02/tajine-haricots-lingots-blancs-800x600.jpg",
+            "ingredients": [
+                {"nom": "Haricots lingots blancs", "quantite": "400 g"},
+                {"nom": "Oignon jaune", "quantite": "1"},
+                {"nom": "Gousses d'ail", "quantite": "2"},
+                {"nom": "Concentre de tomates", "quantite": "1 cuillere a cafe"},
+                {"nom": "Coriandre fraiche", "quantite": "20 feuilles"},
+                {"nom": "Huile d'olive", "quantite": "40 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "1 pincee"},
+                {"nom": "Boeuf", "quantite": "300 g"},
+                {"nom": "Coulis de tomates", "quantite": "400 g"},
+                {"nom": "Eau", "quantite": "985 g"}
+            ],
+            "categorie": "Tajines"
+        },
+        {
+            "id": 16,
+            "titre": "Matlouh - Pain tajine",
+            "description": "Les matlouh sont de petits pains d'origine algerienne a base de semoule, tres moelleux. Ces pains gonflent a la cuisson, creant une cavite interieure facile a garnir. Ils servent d'accompagnement aux plats en sauce comme le tajine, ou farcis de viande et legumes.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2018/01/matlouh-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Levure de boulanger fraiche", "quantite": "20 g"},
+                {"nom": "Eau", "quantite": "350 g"},
+                {"nom": "Farine", "quantite": "400 g"},
+                {"nom": "Semoule extra fine", "quantite": "200 g"},
+                {"nom": "Sel", "quantite": "2 cuilleres a cafe"}
+            ],
+            "categorie": "Pains"
+        },
+        {
+            "id": 17,
+            "titre": "Kesra - Galette orientale",
+            "description": "Galette d'origine maghrebine a base de semoule de ble, utilisee comme pain pour accompagner un plat, une soupe ou comme gourmandise sucree a l'heure du petit dejeuner ou du gouter. Souvent accompagnee d'un verre de the a la menthe, cette recette rassemble et apporte une odeur reconfortante.",
+            "tempsMinute": 30,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2019/03/kesra-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Semoule extra fine", "quantite": "500 g"},
+                {"nom": "Huile de tournesol", "quantite": "80 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Eau", "quantite": "200 g"}
+            ],
+            "categorie": "Pains"
+        },
+        {
+            "id": 18,
+            "titre": "Pains a la semoule au four",
+            "description": "Apres le delicieux Matlouh et la savoureuse Kesra, voici les merveilleux Pains a la semoule au four, qui sont cuits au four et qui vous raviront par leur moelleux incomparable. Parfaits au petit dejeuner avec du beurre et de la confiture.",
+            "tempsMinute": 75,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2022/04/pain-semoule-four-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Eau", "quantite": "460 g"},
+                {"nom": "Sucre en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Levure de boulanger fraiche", "quantite": "16 g"},
+                {"nom": "Semoule extra fine", "quantite": "250 g"},
+                {"nom": "Farine", "quantite": "500 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Huile de tournesol", "quantite": "3 cuilleres a soupe"}
+            ],
+            "categorie": "Pains"
+        },
+        {
+            "id": 19,
+            "titre": "Baklawa aux fruits secs",
+            "description": "Le baklava ou baklawa est une delicieuse patisserie originaire de l'ancien empire ottoman. On la trouve dans de nombreux pays dont les pays du Maghreb, l'Egypte, la Turquie et les Balkans. Un delice aux amandes, noisettes et pistaches parfume a la fleur d'oranger.",
+            "tempsMinute": 90,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2019/03/baklawa-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Amandes en poudre", "quantite": "125 g"},
+                {"nom": "Noisettes", "quantite": "90 g"},
+                {"nom": "Pistaches mondees", "quantite": "50 g"},
+                {"nom": "Sucre brun", "quantite": "70 g"},
+                {"nom": "Beurre", "quantite": "80 g"},
+                {"nom": "Cannelle en poudre", "quantite": "1 cuillere a soupe"},
+                {"nom": "Eau", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Eau de fleur d'oranger", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Feuilles de filo", "quantite": "500 g"},
+                {"nom": "Sucre glace", "quantite": "50 g"},
+                {"nom": "Jus de citron", "quantite": "20 g"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 20,
+            "titre": "Namoura - Gateau de semoule",
+            "description": "Le Namoura est un gateau libanais a base de semoule, moelleux parfume a l'eau de fleur d'oranger et a l'eau de rose qui ressemble a la basboussa egyptienne ou le kalb el louz algerien. Ce gateau se conserve plusieurs jours dans une boite hermetique.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2017/09/namoura-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Sucre en poudre", "quantite": "450 g"},
+                {"nom": "Eau", "quantite": "350 g"},
+                {"nom": "Jus de citron", "quantite": "1"},
+                {"nom": "Eau de fleur d'oranger", "quantite": "3 cuilleres a soupe"},
+                {"nom": "Eau de rose", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Beurre", "quantite": "70 g"},
+                {"nom": "Semoule", "quantite": "500 g"},
+                {"nom": "Yaourts nature", "quantite": "2"},
+                {"nom": "Bicarbonate de soude", "quantite": "2 cuilleres a cafe"},
+                {"nom": "Amandes mondees", "quantite": "40"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 21,
+            "titre": "Carottes a l'orientale",
+            "description": "Pour changer des carottes vichy, essayez ces carottes a l'orientale. Elles sont legerement epicees : le cumin, l'ail, la coriandre et le persil s'accordent parfaitement a leur gout naturellement sucre. Cette recette est ideale pour accompagner une viande rouge!",
+            "tempsMinute": 30,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2019/05/carottes-orientale-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Gousses d'ail", "quantite": "3"},
+                {"nom": "Persil frais", "quantite": "10 g"},
+                {"nom": "Coriandre fraiche", "quantite": "10 g"},
+                {"nom": "Carottes", "quantite": "500 g"},
+                {"nom": "Huile d'olive", "quantite": "25 g"},
+                {"nom": "Cumin", "quantite": "1 cuillere a cafe"},
+                {"nom": "Sel", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Curcuma", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Eau", "quantite": "50 g"}
+            ],
+            "categorie": "Accompagnements"
+        },
+        {
+            "id": 22,
+            "titre": "Salade de couscous facon taboule",
+            "description": "Une salade de couscous variante du taboule, preparee avec de la semoule de couscous. Cette entree prend un peu plus de temps car la semoule est pre-cuite dans l'eau. Une salade mediterraneenne fraiche et delicieuse.",
+            "tempsMinute": 45,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2018/04/salade-de-coucous-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Eau", "quantite": "450 g"},
+                {"nom": "Bouillon de legumes", "quantite": "1 cuillere a soupe"},
+                {"nom": "Huile d'olive", "quantite": "1 cuillere a soupe"},
+                {"nom": "Sel", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Semoule de couscous moyenne", "quantite": "300 g"},
+                {"nom": "Carottes", "quantite": "80 g"},
+                {"nom": "Concombres", "quantite": "180 g"},
+                {"nom": "Poivrons rouges", "quantite": "150 g"},
+                {"nom": "Tomates sechees", "quantite": "50 g"},
+                {"nom": "Jus de citron", "quantite": "20 g"},
+                {"nom": "Menthe fraiche", "quantite": "20 feuilles"},
+                {"nom": "Persil frais", "quantite": "20 feuilles"},
+                {"nom": "Tomates cerises", "quantite": "150 g"},
+                {"nom": "Mais en conserve", "quantite": "100 g"},
+                {"nom": "Feta", "quantite": "150 g"}
+            ],
+            "categorie": "Salades"
+        },
+        {
+            "id": 23,
+            "titre": "Chorba a l'agneau",
+            "description": "La chorba est une soupe principalement consommee en Afrique du Nord, generalement composee de viande, de vermicelles ou de frik et de legumes. Cette recette traditionnelle reconfortante inclut de la viande d'agneau, des pois chiches, de la tomate, du celeri et diverses epices.",
+            "tempsMinute": 75,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2022/04/chorba-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Coriandre fraiche", "quantite": "20 brins"},
+                {"nom": "Gousse d'ail", "quantite": "1"},
+                {"nom": "Oignon jaune", "quantite": "1"},
+                {"nom": "Tomate", "quantite": "1"},
+                {"nom": "Huile d'olive", "quantite": "20 g"},
+                {"nom": "Viande d'agneau", "quantite": "350 g"},
+                {"nom": "Concentre de tomates", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Ras el hanout", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cannelle en poudre", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Eau", "quantite": "1000 g"},
+                {"nom": "Celeri branche", "quantite": "1"},
+                {"nom": "Pois chiches en conserve", "quantite": "300 g"}
+            ],
+            "categorie": "Soupes"
+        },
+        {
+            "id": 24,
+            "titre": "Bissara - Puree de pois casses",
+            "description": "La Bissara est une puree de pois casses tres appreciee au Maghreb, c'est un plat typique pour les journees froides. Elle rechauffe les coeurs et les chaumieres! Elle se deguste avec un bon pain oriental maison et de l'oignon rouge en accompagnement.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2020/03/bissara-abissar-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Gousses d'ail", "quantite": "4"},
+                {"nom": "Pois casses", "quantite": "300 g"},
+                {"nom": "Huile d'olive", "quantite": "55 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "2 cuilleres a cafe"},
+                {"nom": "Eau", "quantite": "1100 g"}
+            ],
+            "categorie": "Soupes"
+        },
+        {
+            "id": 25,
+            "titre": "Boulettes de poulet aux olives",
+            "description": "Voici de delicieuses boulettes de poulet aux olives vertes qui rappellent la cuisine marocaine bien connue pour son subtil melange d'epices et ses belles associations de saveurs. Elles peuvent etre servies avec des pates, du riz ou une compotee d'oignon.",
+            "tempsMinute": 50,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2019/08/boulettes-poulet-olives-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Olives vertes", "quantite": "100 g"},
+                {"nom": "Gousse d'ail", "quantite": "1"},
+                {"nom": "Oignons", "quantite": "100 g"},
+                {"nom": "Coriandre fraiche", "quantite": "20 g"},
+                {"nom": "Persil frais", "quantite": "20 g"},
+                {"nom": "Escalopes de poulet", "quantite": "500 g"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Coriandre en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Gingembre moulu", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Sel", "quantite": "0.5 cuillere a cafe"},
+                {"nom": "Oeuf", "quantite": "1"},
+                {"nom": "Chapelure", "quantite": "2 cuilleres a soupe"},
+                {"nom": "Farine", "quantite": "20 g"}
+            ],
+            "categorie": "Plats traditionnels"
+        },
+        {
+            "id": 26,
+            "titre": "Samoussas au poulet a la marocaine",
+            "description": "Les samoussas sont des petits beignets provenant a l'origine d'Asie centrale et du Moyen-Orient. Cette version marocaine avec oignons, raisins secs et amandes est delicieuse. Ideal en aperitif, entree ou plat principal accompagne de riz et salade.",
+            "tempsMinute": 60,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2022/02/samoussas-poulet-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Oignons", "quantite": "2"},
+                {"nom": "Cuisses de poulet", "quantite": "260 g"},
+                {"nom": "Raisins secs", "quantite": "40 g"},
+                {"nom": "Cannelle en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Eau", "quantite": "600 g"},
+                {"nom": "Miel", "quantite": "20 g"},
+                {"nom": "Origan", "quantite": "1 cuillere a cafe"},
+                {"nom": "Amandes effilees", "quantite": "30 g"},
+                {"nom": "Oeuf", "quantite": "1"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Noix de muscade moulue", "quantite": "2 pincees"},
+                {"nom": "Curcuma", "quantite": "2 pincees"},
+                {"nom": "Gingembre moulu", "quantite": "2 pincees"},
+                {"nom": "Coriandre en poudre", "quantite": "1 pincee"},
+                {"nom": "Cumin", "quantite": "1 pincee"},
+                {"nom": "Feuilles de brick", "quantite": "15"}
+            ],
+            "categorie": "Entrees"
+        },
+        {
+            "id": 27,
+            "titre": "Hssouwa - Soupe a la semoule d'orge",
+            "description": "Direction le Maroc avec cette Hssouwa, la soupe a la semoule d'orge qui rechauffe les ventres et les coeurs quand le soir tombe sur les ruelles de Fes ou Marrakech. Une soupe traditionnelle aux epices rechauffantes.",
+            "tempsMinute": 55,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2025/11/hssouwa-soupe-semoule-orge-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Tomates", "quantite": "2"},
+                {"nom": "Oignon jaune", "quantite": "1"},
+                {"nom": "Coriandre fraiche", "quantite": "25 g"},
+                {"nom": "Celeri branche", "quantite": "120 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "1 cuillere a cafe"},
+                {"nom": "Gingembre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cube bouillon legumes", "quantite": "1"},
+                {"nom": "Concentre de tomates", "quantite": "1 cuillere a soupe"},
+                {"nom": "Huile d'olive", "quantite": "15 g"},
+                {"nom": "Eau", "quantite": "1000 g"},
+                {"nom": "Semoule d'orge", "quantite": "100 g"},
+                {"nom": "Cannelle", "quantite": "1 cuillere a cafe"},
+                {"nom": "Jus de citron", "quantite": "1 cuillere a soupe"}
+            ],
+            "categorie": "Soupes"
+        },
+        {
+            "id": 28,
+            "titre": "Boules coco et confiture",
+            "description": "De delicieux sables ultra fondants en bouche, parfumes a la vanille, enrobes genereusement de confiture, le tout est enveloppe dans un nuage gourmand de noix de coco rapee. Parfaits pour l'heure du gouter ou pour les fetes de l'Aid.",
+            "tempsMinute": 45,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2022/02/boule-coco-confiture-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Sucre glace", "quantite": "130 g"},
+                {"nom": "Oeufs", "quantite": "2"},
+                {"nom": "Farine", "quantite": "300 g"},
+                {"nom": "Beurre", "quantite": "100 g"},
+                {"nom": "Sel", "quantite": "1 pincee"},
+                {"nom": "Levure chimique", "quantite": "1 sachet"},
+                {"nom": "Extrait de vanille", "quantite": "1 cuillere a cafe"},
+                {"nom": "Confiture de fraises", "quantite": "200 g"},
+                {"nom": "Eau", "quantite": "4 cuilleres a soupe"},
+                {"nom": "Noix de coco rapee", "quantite": "200 g"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 29,
+            "titre": "Gateau aux dattes",
+            "description": "Voici la recette d'un gateau marocain aux dattes medjoul. Tres aromatique, savoureuse et reconfortante, cette recette se conserve plusieurs jours. Le gateau a une texture et un parfum qui rappellent le pain d'epices.",
+            "tempsMinute": 45,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2022/07/gateau-dattes-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Beurre", "quantite": "90 g"},
+                {"nom": "Dattes denoyautees", "quantite": "300 g"},
+                {"nom": "Oeufs", "quantite": "2"},
+                {"nom": "Sucre brun", "quantite": "80 g"},
+                {"nom": "Farine", "quantite": "175 g"},
+                {"nom": "Bicarbonate de soude", "quantite": "1 cuillere a cafe"},
+                {"nom": "Miel", "quantite": "1 cuillere a soupe"},
+                {"nom": "Cannelle en poudre", "quantite": "1 cuillere a cafe"}
+            ],
+            "categorie": "Patisseries"
+        },
+        {
+            "id": 30,
+            "titre": "Chorba boeuf et langues d'oiseaux",
+            "description": "Une chorba au boeuf et langues d'oiseaux, dans la plus pure tradition marocaine. C'est une recette qu'on se passe de mere en fille, simple a faire, et qui revient souvent pendant le Ramadan pour alterner avec la harira.",
+            "tempsMinute": 90,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2026/01/chorba-boeuf-langues-doiseaux-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Tomates", "quantite": "3"},
+                {"nom": "Oignons", "quantite": "2"},
+                {"nom": "Coriandre fraiche", "quantite": "25 g"},
+                {"nom": "Boeuf (jarret ou macreuse)", "quantite": "250 g"},
+                {"nom": "Huile d'olive", "quantite": "35 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre noir", "quantite": "1 cuillere a cafe"},
+                {"nom": "Paprika", "quantite": "1 cuillere a cafe"},
+                {"nom": "Curcuma", "quantite": "1 cuillere a cafe"},
+                {"nom": "Gingembre moulu", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cumin", "quantite": "1 cuillere a cafe"},
+                {"nom": "Cube bouillon legumes", "quantite": "1"},
+                {"nom": "Concentre de tomates", "quantite": "1 cuillere a soupe"},
+                {"nom": "Eau", "quantite": "1900 g"},
+                {"nom": "Cannelle en poudre", "quantite": "1 cuillere a cafe"},
+                {"nom": "Jus de citron", "quantite": "1 cuillere a soupe"},
+                {"nom": "Pates langues d'oiseaux", "quantite": "240 g"}
+            ],
+            "categorie": "Soupes"
+        },
+        {
+            "id": 31,
+            "titre": "Jus de fruits ACE vitamine",
+            "description": "Un bon petit jus de fruits (orange, carotte et citron) pour demarrer la journee. Pourquoi ACE ? Cela vient des 3 vitamines principales qu'il contient : les vitamines A, C et E! Rafraichissant et energisant.",
+            "tempsMinute": 10,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2018/01/jus-de-fruits-ace-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Sucre en poudre", "quantite": "60 g"},
+                {"nom": "Citrons verts", "quantite": "1.5"},
+                {"nom": "Oranges", "quantite": "2"},
+                {"nom": "Carottes", "quantite": "80 g"},
+                {"nom": "Eau", "quantite": "550 g"}
+            ],
+            "categorie": "Boissons"
+        },
+        {
+            "id": 32,
+            "titre": "Smoothie orange pomme banane",
+            "description": "Voici un smoothie express avec des fruits que l'on trouve facilement toute l'annee : oranges, pommes et bananes pour faire au petit dejeuner le plein de vitamines pour toute la journee! Frais et delicieux.",
+            "tempsMinute": 5,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2021/02/smoothie-orange-pomme-banane-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Oranges", "quantite": "300 g"},
+                {"nom": "Pommes", "quantite": "150 g"},
+                {"nom": "Bananes", "quantite": "100 g"},
+                {"nom": "Jus d'orange", "quantite": "750 g"}
+            ],
+            "categorie": "Boissons"
+        },
+        {
+            "id": 33,
+            "titre": "Mini Harcha - Galettes a la semoule",
+            "description": "Des petites Harchas, des galettes a la semoule fine dans la plus pure tradition Marocaine. Cette patisserie traditionnelle presente un exterieur croustillant et une mie tendre, historiquement preparee avec des ingredients locaux simples. Servies au petit dejeuner ou au gouter avec du the a la menthe.",
+            "tempsMinute": 40,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2024/09/mini-harcha-galettes-semoule-maroc-thermomix.jpg",
+            "ingredients": [
+                {"nom": "Semoule fine", "quantite": "500 g"},
+                {"nom": "Beurre", "quantite": "80 g"},
+                {"nom": "Huile de colza", "quantite": "50 g"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Sucre en poudre", "quantite": "30 g"},
+                {"nom": "Oeuf", "quantite": "1"},
+                {"nom": "Levure chimique", "quantite": "1 sachet"},
+                {"nom": "Lait demi-ecreme", "quantite": "250 g"}
+            ],
+            "categorie": "Petit-dejeuner"
+        },
+        {
+            "id": 34,
+            "titre": "Salade de lentilles",
+            "description": "Aussi copieuse qu'equilibree, cette salade fait la part belle aux lentilles que vous pouvez accompagner d'autres legumes si vous le souhaitez. L'idee ici est de faire cuire les lentilles et profiter du temps de cuisson pour preparer d'autres ingredients.",
+            "tempsMinute": 45,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2018/06/salade-de-lentilles-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Eau", "quantite": "1500 g"},
+                {"nom": "Sel aux herbes", "quantite": "1 cuillere a cafe"},
+                {"nom": "Thym", "quantite": "2 cuilleres a cafe"},
+                {"nom": "Lentilles vertes", "quantite": "300 g"},
+                {"nom": "Oignon rouge", "quantite": "1"},
+                {"nom": "Clous de girofle", "quantite": "3"},
+                {"nom": "Feuilles de laurier", "quantite": "2"},
+                {"nom": "Echalotes", "quantite": "2"},
+                {"nom": "Persil frais", "quantite": "20 feuilles"},
+                {"nom": "Huile d'olive", "quantite": "30 g"},
+                {"nom": "Moutarde de Dijon", "quantite": "1 cuillere a cafe"},
+                {"nom": "Vinaigre", "quantite": "10 g"}
+            ],
+            "categorie": "Salades"
+        },
+        {
+            "id": 35,
+            "titre": "Salade aubergines courgettes tomates",
+            "description": "Une salade d'aubergine, courgettes et tomates inspiree du zaalouk marocain. Cette version revisitee ajoute a la richesse mediterraneenne une touche estivale fraiche grace a la courgette et a la tomate. Parfaite en entree ou en accompagnement de grillades.",
+            "tempsMinute": 30,
+            "imgLink": "https://www.cookomix.com/wp-content/uploads/2023/08/salade-aubergines-courgettes-tomates-thermomix-800x600.jpg",
+            "ingredients": [
+                {"nom": "Aubergine", "quantite": "1"},
+                {"nom": "Courgette", "quantite": "1"},
+                {"nom": "Tomates", "quantite": "3"},
+                {"nom": "Gousse d'ail", "quantite": "1"},
+                {"nom": "Huile d'olive", "quantite": "3 cuilleres a soupe"},
+                {"nom": "Sel", "quantite": "1 cuillere a cafe"},
+                {"nom": "Poivre", "quantite": "1 pincee"}
+            ],
+            "categorie": "Salades"
+        }
+    ],
+    "page": 1,
+    "size": 35,
+    "totalElements": 35,
+    "totalPages": 1
+}
